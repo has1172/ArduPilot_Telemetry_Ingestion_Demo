@@ -80,7 +80,7 @@ To run the ingestion and physics engine locally on your own machine:
 
 ## 👨‍💻 About the Author
 
-Harsh Shah
-Computer Science Engineering specializing in AI | Parul University
+### Harsh Shah
+### Computer Science Engineering specializing in AI | Parul University
 
 This architectural approach is heavily informed by my background in both physical drone hardware and large-scale data processing. I previously engineered "PARTH," a morphing quadcopter utilizing a Pixhawk flight controller, which required deep familiarity with raw telemetry, PID tuning, and ArduPilot C++ kinematics. Furthermore, the physics-informed anomaly detection approach utilized here is scaled down from Divya Dhrishti, a prior project where I successfully processed a dataset of over 3 million real-world Boeing 737 flight logs to isolate mechanical signatures from sensor noise.
