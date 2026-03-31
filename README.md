@@ -78,7 +78,8 @@ To run the ingestion and physics engine locally on your own machine:
 
 (Note: The script currently expects a .bin file named sample_crash_log.bin in the root directory. You can swap this with your own flight logs to test the mechanical failure detection thresholds).
 
-##👨‍💻 About the Author
+## 👨‍💻 About the Author
+
 Harsh Shah
 Computer Science Engineering specializing in AI | Parul University
 
