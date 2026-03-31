@@ -66,7 +66,7 @@ You can test the physics-filtering logic directly in your browser without any lo
 ### Option 1: Live Browser Demo
 Test the physics engine against an ArduPilot `.bin` log directly in Google Colab. This interactive environment handles the `pymavlink` dependencies and extracts the telemetry in the cloud.
 
-[**Run the Interactive Diagnostics Colab Notebook Here**]((https://colab.research.google.com/drive/1073K9Z8Er4FPNH9qkAkWG6XG5z1UK5go?usp=sharing))
+[**Run the Interactive Diagnostics Colab Notebook Here**](https://colab.research.google.com/drive/1073K9Z8Er4FPNH9qkAkWG6XG5z1UK5go?usp=sharing)
 
 ### Option 2: Local CLI Execution
 To run the ingestion and physics engine locally on your own machine:
@@ -78,7 +78,7 @@ To run the ingestion and physics engine locally on your own machine:
 
 (Note: The script currently expects a .bin file named sample_crash_log.bin in the root directory. You can swap this with your own flight logs to test the mechanical failure detection thresholds).
 
-###👨‍💻 About the Author
+##👨‍💻 About the Author
 Harsh Shah
 Computer Science Engineering specializing in AI | Parul University
 
